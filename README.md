@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👩🏻‍💻 Hey, I'm Beki - Web & Backend Developer 
 
-<!--
-**bekitos101/bekitos101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Quick Overview
+- 🌱 Always exploring the latest in web technologies and backend frameworks.
+- 💡 Open to collaborate on web development and backend projects.
+- 🤔 Currently diving deep into NLP, LLM, and Generative AI because why not? 
+- 💬 Let's discuss!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+### Frontend Development
+- **Tools:** HTML, CSS, JavaScript,Bulma, Bootstrap
+- **Frameworks:** Angular 
+
+### Backend Development
+- **Languages:** Python, JavaScript, Java, TypeScript 
+- **Frameworks/Libraries:** Flask, Spring Boot, NodeJS, Express 
+- **API Development:** Swagger,PostMan
+- **Database:** PostgreSQL,SQL, JPQL, MongoDB
+
+### Contact 
+
+- 📧 Feel free to contact me at **Balkis.Karoui@edu.bme.hu**
+
