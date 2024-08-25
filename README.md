@@ -4,7 +4,7 @@
 ## Quick Overview
 - 🌱 Always exploring the latest in web technologies and backend frameworks.
 - 💡 Open to collaborate on web development and backend projects.
-- 🤔 Currently diving deep into NLP, LLM, and Generative AI because why not? 
+- 🤔 Currently diving deep into cloud technologies because why not? 
 - 💬 Let's discuss!
 
 ## Skills & Tools
@@ -15,9 +15,9 @@
 
 ### Backend Development
 - **Languages:** Python, JavaScript, Java, TypeScript 
-- **Frameworks/Libraries:** Flask, Spring Boot, NodeJS, Express 
+- **Frameworks/Libraries:** Flask, Spring Boot, NodeJS, ExpressJS 
 - **API Development:** Swagger,PostMan
-- **Database:** PostgreSQL,SQL, JPQL, MongoDB
+- **Database:** PostgreSQL,MySQL, MongoDB
 
 ### Contact 
 
