@@ -1,25 +1,28 @@
-# 👩🏻‍💻 Hey, I'm Beki - Web & Backend Developer 
+# 👩🏻‍💻 Hey, I'm Beki — Software Engineer & Web Developer 
 
+## 🚀 About Me  
+- 🔧 Building **scalable web apps** and **clean backend systems** that actually work in production.  
+- ☁️ Currently deepening my skills in **cloud infrastructure** and **API architecture**.  
+- 💬 Passionate about **clean code**, **automation**, and **continuous learning**.  
+- 🌍 Based in Budapest, open to **collaboration or freelancing** on impactful tech projects.  
 
-## Quick Overview
-- 🌱 Always exploring the latest in web technologies and backend frameworks.
-- 💡 Open to collaborate on web development and backend projects.
-- 🤔 Currently diving deep into cloud technologies because why not? 
-- 💬 Let's discuss!
+## 🧠 Tech Stack  
 
-## Skills & Tools
+### 🖥️ Frontend  
+- **Languages & Tools:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks:** Angular, Bootstrap, Bulma  
 
-### Frontend Development
-- **Tools:** HTML, CSS, JavaScript,Bulma, Bootstrap
-- **Frameworks:** Angular 
+### ⚙️ Backend  
+- **Languages:** Python, Java, JavaScript, TypeScript  
+- **Frameworks:** Flask, Spring Boot, Node.js, Express.js  
+- **API Tools:** Swagger, Postman  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
 
-### Backend Development
-- **Languages:** Python, JavaScript, Java, TypeScript 
-- **Frameworks/Libraries:** Flask, Spring Boot, NodeJS, ExpressJS 
-- **API Development:** Swagger,PostMan
-- **Database:** PostgreSQL,MySQL, MongoDB
+### ☁️ DevOps & Extras  
+- 🐳 Docker, GitHub Actions, CI/CD pipelines  
+- ☁️ AWS & Google Cloud (basics)  
+- 🧩 RESTful APIs, authentication, testing, and deployment automation  
 
-### Contact 
-
-- 📧 Feel free to contact me at **Balkis.Karoui@edu.bme.hu**
-
+## 📫 Get in Touch  
+- ✉️ **Balkis.Karoui@edu.bme.hu**  
+- 💼 Always open to new collaborations or side projects!
