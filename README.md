@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hey, I'm Beki — Software Engineer & Web Developer 
+# 👩🏻‍💻 Hey, I'm Beki — Software Engineer
 
 ## 🚀 About Me  
 - 🔧 Building **scalable web apps** and **clean backend systems** that actually work in production.  
